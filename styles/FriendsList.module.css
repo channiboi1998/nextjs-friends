@@ -1,0 +1,8 @@
+.friend {
+    margin-bottom: 20px!important;
+}
+
+.friend img {
+    min-height: 260px;
+    object-fit: cover;
+}

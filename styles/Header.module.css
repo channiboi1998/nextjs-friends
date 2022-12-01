@@ -1,0 +1,15 @@
+.header {
+    background-color: black;
+    padding: 20px 0px;
+}
+
+.header .logoText {
+    color: #fff;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.header .navLinks .links {
+    margin-left: 20px;
+    color: #fff;
+}
